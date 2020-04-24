@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="982px" height="1273px" viewBox="0 0 982 1273" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <g id="logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" stroke="#000000" stroke-width="45" x="51.5" y="56.5" width="877" height="1165"></rect>
+        <text id="Th" font-family="FiraCode-Light_Bold, Fira Code" font-size="600" font-weight="bold" fill="#000000">
+            <tspan x="146" y="855">T</tspan>
+            <tspan x="506" y="855" font-size="550">h</tspan>
+        </text>
+        <text id="14" font-family="FiraCode-Light_Regular, Fira Code" font-size="200" font-weight="normal" fill="#000000">
+            <tspan x="370" y="304">14</tspan>
+        </text>
+        <text id="Tamahagane" font-family="FiraCode-Light_Regular, Fira Code" font-size="120" font-weight="normal" fill="#000000">
+            <tspan x="130" y="1088">Tamahagane</tspan>
+        </text>
+    </g>
+</svg>
