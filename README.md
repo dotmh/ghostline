@@ -6,6 +6,10 @@
 
 Tamahagane is an opinionated framework for building static sites. It is built atop the [Metalsmith](https://metalsmith.io/) static site generator. The framework consists of some practical code i.e. plugins and some process and methodology stuff. 
 
+__NOTE__
+These plugins are only designed to work within the Tamahagane framework, though they may work fine outside
+with just standard Metalsmith they make some assumptions including that you are using [handlebars](https://handlebarsjs.com/) for templates.  
+
 # Plugins
 
 The Framework uses many plugins some developed especially for Tamahagane and some Third Party.
