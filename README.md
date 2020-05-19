@@ -1,10 +1,10 @@
-<center>
-<img src="./tamahagane.svg" alt="Tamahagane Framework">
-</center>
+<div style="text-align: center">
+    <img src="./tamahagane.svg" alt="Tamahagane Framework">
+</div>
 
 # Tamahagane Framework
 
-Tamahagane is an opinionated framework for building static sites. It is built atop the [Metalsmith](https://metalsmith.io/) static site generator. The framework consists of some practical code i.e. plugins and some process and methodology stuff. 
+Tamahagane is an opinionated framework for building static sites. It is built atop the [Metalsmith](https://metalsmith.io/) static site generator. The framework consists of some practical code i.e. plugins as well as process and methodology. 
 
 __NOTE__
 These plugins are only designed to work within the Tamahagane framework, though they may work fine outside
@@ -57,7 +57,7 @@ i.e.
 npm i @dotmh/tamahagane-base 
 ```
 
-You can then use them by including the individual plugins form, for example for `tamahagane-base`
+You can then use them by including the individual plugins from the bundle, for example for `tamahagane-base`
 
 ```javascript
 const {handlebars-content} = require('@dotmh/tamahagane-base');
