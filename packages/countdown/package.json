@@ -25,5 +25,8 @@
   },
   "dependencies": {
     "handlebars": "^4.7.6"
+  },
+  "peerDependencies": {
+    "metalsmith": "^2.3.0"
   }
 }

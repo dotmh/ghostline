@@ -22,5 +22,11 @@
   },
   "bugs": {
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+  },
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  },
+  "peerDependencies": {
+    "metalsmith": "^2.3.0"
   }
 }
