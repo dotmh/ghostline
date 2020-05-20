@@ -1,0 +1,33 @@
+{
+  "name": "@dotmh/tamahagane-handlebars-content",
+  "version": "0.1.0",
+  "description": "Allows processing handlebars tags within the content files not just layouts",
+  "keywords": [
+    "Metalsmith",
+    "tamahagane",
+    "tamahagane-plugin",
+    "static",
+    "static-site"
+  ],
+  "author": "Martin Haynes <martin@dotmh.io>",
+  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/handlebars-content#readme",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.6",
+    "minimatch": "^3.0.4"
+  },
+  "peerDependencies": {
+    "metalsmith": "^2.3.0"
+  }
+}

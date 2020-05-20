@@ -1,0 +1,39 @@
+{
+  "name": "@dotmh/tamahagane-galleries",
+  "version": "0.1.0",
+  "description": "Auto generate gallery metadata to add to pages",
+  "keywords": [
+    "Metalsmith",
+    "tamahagane",
+    "tamahagane-plugin",
+    "static",
+    "static-site"
+  ],
+  "author": "Martin Haynes <martin@dotmh.io>",
+  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/galleries#readme",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+  },
+  "peerDependencies": {
+    "metalsmith": "^2.3.0"
+  },
+  "dependencies": {
+    "minimatch": "^3.0.4"
+  }
+}
