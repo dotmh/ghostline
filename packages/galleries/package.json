@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-galleries",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Auto generate gallery metadata to add to pages",
   "keywords": [
     "Metalsmith",

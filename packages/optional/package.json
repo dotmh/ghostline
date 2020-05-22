@@ -1,9 +1,9 @@
 {
-  "name": "@dotmh/tamahagane-image-manager",
+  "name": "@dotmh/tamahagane-bundle-optional",
   "version": "0.2.0",
-  "description": "Manage images in your site such as webp multisource",
+  "description": "A series of Plugins for the Tamahagane static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/image-manager#readme",
+  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/optional#readme",
   "license": "Apache-2.0",
   "main": "index.js",
   "keywords": [
@@ -24,9 +24,8 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "handlebars": "^4.7.6"
-  },
-  "peerDependencies": {
-    "metalsmith": "^2.3.0"
+    "@dotmh/tamahagane-countdown": "^0.2.0",
+    "@dotmh/tamahagane-image-colors": "^0.2.0",
+    "@dotmh/tamahagane-meta-debugger": "^0.2.0"
   }
 }

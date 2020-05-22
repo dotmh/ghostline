@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-includes",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Metalsmith plugin allowing to include one page's data in another",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/includes#readme",

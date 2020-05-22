@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-meta-loader",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Metalsmith plugin for loading meta data from serialized files",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/meta-loader#readme",
