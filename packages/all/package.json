@@ -1,11 +1,11 @@
 {
-  "name": "@dotmh/tamahagane-bundle-optional",
+  "name": "@dotmh/tamahagane-bundle-all",
   "version": "0.1.0",
   "description": "A series of Plugins for the Tamahagane static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/optional#readme",
+  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/all#readme",
   "license": "Apache-2.0",
-  "main": "index.js",
+  "main": "lib/all.js",
   "keywords": [
     "Metalsmith",
     "tamahagane",
@@ -24,8 +24,7 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "@dotmh/tamahagane-countdown": "^0.1.0",
-    "@dotmh/tamahagane-image-colors": "^0.1.0",
-    "@dotmh/tamahagane-meta-debugger": "^0.1.0"
+    "@dotmh/tamahagane-bundle-base" : "0.1.0",
+    "@dotmh/tamahagane-bundle-optional" : "0.1.0"
   }
 }
