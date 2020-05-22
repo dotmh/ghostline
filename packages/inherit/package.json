@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-inherit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A Metelsmith plugin to inherit data from the master page for a section",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/inherit#readme",
