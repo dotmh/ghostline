@@ -51,13 +51,13 @@ Installs all the plugins under the base heading above.
 Install with
 
 ```base
-npm i @dotmh/tamahagane-<BUNDLE>
+npm i @dotmh/tamahagane-bundle-<BUNDLE>
 ```
 
 i.e.
 
 ```bash
-npm i @dotmh/tamahagane-base 
+npm i @dotmh/tamahagane-bundle-base 
 ```
 
 You can then use them by including the individual plugins from the bundle, for example for `tamahagane-base`
