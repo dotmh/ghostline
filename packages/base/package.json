@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-bundle-base",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A series of Plugins for the Tamahagane static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/base#readme",
@@ -28,7 +28,7 @@
     "@dotmh/tamahagane-galleries": "^0.2.0",
     "@dotmh/tamahagane-handlebars-content": "^0.2.0",
     "@dotmh/tamahagane-handlebars-tools": "^0.2.0",
-    "@dotmh/tamahagane-image-manager": "^0.2.0",
+    "@dotmh/tamahagane-image-manager": "^0.2.1",
     "@dotmh/tamahagane-includes": "^0.2.0",
     "@dotmh/tamahagane-inherit": "^0.2.0",
     "@dotmh/tamahagane-is-current": "^0.2.0",
