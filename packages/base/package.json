@@ -6,12 +6,12 @@
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/base#readme",
   "license": "Apache-2.0",
   "main": "index.js",
-  "directories": {
-    "lib": "lib",
-    "test": "__tests__"
-  },
-  "files": [
-    "lib"
+  "keywords": [
+    "Metalsmith",
+    "tamahagane",
+    "tamahagane-plugin",
+    "static",
+    "static-site"
   ],
   "repository": {
     "type": "git",
@@ -22,5 +22,17 @@
   },
   "bugs": {
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+  },
+  "dependencies": {
+    "@dotmh/tamahagane-draft-exculder": "^0.1.0",
+    "@dotmh/tamahagane-galleries": "^0.1.0",
+    "@dotmh/tamahagane-handlebars-content": "^0.1.0",
+    "@dotmh/tamahagane-handlebars-tools": "^0.1.0",
+    "@dotmh/tamahagane-image-manager": "^0.1.0",
+    "@dotmh/tamahagane-includes": "^0.1.0",
+    "@dotmh/tamahagane-inherit": "^0.1.0",
+    "@dotmh/tamahagane-is-current": "^0.1.0",
+    "@dotmh/tamahagane-list": "^0.1.0",
+    "@dotmh/tamahagane-meta-loader": "^0.1.0"
   }
 }
