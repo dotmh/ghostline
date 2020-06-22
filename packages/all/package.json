@@ -5,7 +5,7 @@
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/all#readme",
   "license": "Apache-2.0",
-  "main": "lib/all.js",
+  "main": "index.js",
   "keywords": [
     "Metalsmith",
     "tamahagane",
