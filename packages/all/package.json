@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-bundle-all",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A series of Plugins for the Tamahagane static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/all#readme",
