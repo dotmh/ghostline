@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-bundle-base",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "description": "A series of Plugins for the Tamahagane static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/base#readme",
@@ -24,15 +24,15 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "@dotmh/tamahagane-draft-exculder": "^0.3.0",
-    "@dotmh/tamahagane-galleries": "^0.3.0",
-    "@dotmh/tamahagane-handlebars-content": "^0.3.0",
-    "@dotmh/tamahagane-handlebars-tools": "^0.3.1",
-    "@dotmh/tamahagane-image-manager": "^0.3.0",
-    "@dotmh/tamahagane-includes": "^0.3.0",
-    "@dotmh/tamahagane-inherit": "^0.3.0",
-    "@dotmh/tamahagane-is-current": "^0.3.0",
-    "@dotmh/tamahagane-list": "^0.3.0",
-    "@dotmh/tamahagane-meta-loader": "^0.3.0"
+    "@dotmh/tamahagane-draft-exculder": "^0.4.0",
+    "@dotmh/tamahagane-galleries": "^0.4.0",
+    "@dotmh/tamahagane-handlebars-content": "^0.4.0",
+    "@dotmh/tamahagane-handlebars-tools": "^0.4.0",
+    "@dotmh/tamahagane-image-manager": "^0.4.0",
+    "@dotmh/tamahagane-includes": "^0.4.0",
+    "@dotmh/tamahagane-inherit": "^0.4.0",
+    "@dotmh/tamahagane-is-current": "^0.4.0",
+    "@dotmh/tamahagane-list": "^0.4.0",
+    "@dotmh/tamahagane-meta-loader": "^0.4.0"
   }
 }
