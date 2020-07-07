@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-draft-exculder",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Excludes drafts from been published",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/draft-exculder#readme",

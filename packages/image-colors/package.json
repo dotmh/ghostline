@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-image-colors",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Get the dominant colors from all the images in your site\"",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/image-colors#readme",

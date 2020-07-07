@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-countdown",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A counter plugin for metalsmith to allow adding metadata for counters",
   "keywords": [
     "Metalsmith",
