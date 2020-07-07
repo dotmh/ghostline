@@ -24,7 +24,6 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "handlebars": "^4.7.6",
     "minimatch": "^3.0.4"
   },
   "peerDependencies": {

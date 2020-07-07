@@ -1,6 +1,5 @@
 const path = require('path');
 const fs = require('fs');
-const handlebars = require('handlebars');
 
 /*
  * Usage
@@ -8,7 +7,7 @@ const handlebars = require('handlebars');
  * {{img "about/background.jpg" "background"}}
  */
 
-module.exports = (_options = {}) => {
+module.exports = (handlebars, _options = {}) => {
 	const options = {
 		...{
 			imageFolder: '',

@@ -2,11 +2,10 @@ const path = require('path');
 const fs = require('fs');
 const minimatch = require('minimatch');
 const Vibrant = require('node-vibrant');
-const handlebars = require('handlebars');
 
 const GLOB = '**/@(*.jpg|*.png|*.jpeg)';
 
-module.exports = (_options = {}) => {
+module.exports = (handlebars, _options = {}) => {
 	const options = {
 		...{
 			sourceDirectory: '',
