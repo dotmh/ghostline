@@ -30,3 +30,5 @@ module.exports = (handlebars, _options = {}) => {
 		done();
 	};
 };
+
+module.exports.timeFunctions = require('./time-functions');
