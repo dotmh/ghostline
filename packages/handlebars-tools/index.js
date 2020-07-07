@@ -25,7 +25,6 @@ module.exports = (handlebars, _options = {}) => {
 		const base = path.resolve(root, directory);
 
 		const filePattern = type === PARTIALS ? options.pattern : JSEXT;
-		console.log('about to scan', base);
 		const files = fs.readdirSync(base);
 
 		files.forEach(file => {
@@ -61,7 +60,6 @@ module.exports = (handlebars, _options = {}) => {
 	};
 
 	return (files, metalsmith, done) => {
-		console.log(metalsmith);
 		process.forEach(type => {
 			let directory;
 			switch (type) {
