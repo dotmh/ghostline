@@ -57,7 +57,7 @@ i.e.
 npm i @ghostline/bundle-base 
 ```
 
-You can then use them by including the individual plugins from the bundle, for example for `Ghostline-base`
+You can then use them by including the individual plugins from the bundle, for example for `ghostline/bundle-base`
 
 ```javascript
 const {handlebarContents} = require('@ghostline/bundle-base');
