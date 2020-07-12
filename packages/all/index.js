@@ -1,5 +1,5 @@
-const base = require('@dotmh/tamahagane-bundle-base');
-const optional = require('@dotmh/tamahagane-bundle-optional');
+const base = require('@ghostline/bundle-base');
+const optional = require('@ghostline/bundle-optional');
 
 module.exports = {
     ...base,

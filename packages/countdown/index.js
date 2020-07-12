@@ -1,4 +1,4 @@
-const {parseDateTime, generateToday, count, zeroFill} = require('@dotmh/ctf');
+const {parseDateTime, generateToday, count, zeroFill} = require('@ghostline/ctf');
 
 module.exports = (handlebars, _options = {}) => {
 	const options = {

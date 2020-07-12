@@ -1,30 +1,30 @@
 {
-  "name": "@dotmh/tamahagane-bundle-all",
+  "name": "@ghostline/bundle-all",
   "version": "0.5.0",
-  "description": "A series of Plugins for the Tamahagane static site framework",
+  "description": "A series of Plugins for the Ghostline static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/all#readme",
+  "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/all#readme",
   "license": "Apache-2.0",
   "main": "index.js",
   "keywords": [
     "Metalsmith",
-    "tamahagane",
-    "tamahagane-plugin",
+    "Ghostline",
+    "plugin",
     "static",
     "static-site"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+    "url": "git+https://github.com/dotmh/ghostline.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+    "url": "https://github.com/dotmh/ghostline/issues"
   },
   "dependencies": {
-    "@dotmh/tamahagane-bundle-base": "^0.5.0",
-    "@dotmh/tamahagane-bundle-optional": "^0.5.0"
+    "@ghostline/bundle-base": "^0.5.0",
+    "@ghostline/bundle-optional": "^0.5.0"
   }
 }

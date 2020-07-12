@@ -1,14 +1,14 @@
 {
-  "name": "@dotmh/tamahagane",
+  "name": "@ghostline/plugins",
   "version": "0.1.0",
-  "description": "Plugins to support the tamahagane static site framework",
+  "description": "Plugins to support the Ghostline static site framework",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/dotmh/tamahagane-plugins.git"
+    "url": "git+ssh://git@github.com/dotmh/ghostline.git"
   },
   "keywords": [
     "static",
@@ -19,9 +19,9 @@
   "author": "Martin Haynes <oss@dotmh.io>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+    "url": "https://github.com/dotmh/ghostline/issues"
   },
-  "homepage": "https://github.com/dotmh/tamahagane-plugins#readme",
+  "homepage": "https://github.com/dotmh/ghostline#readme",
   "devDependencies": {
     "lerna": "^3.20.1"
   }

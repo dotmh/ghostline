@@ -1,23 +1,20 @@
-<div style="text-align: center">
-    <img src="./tamahagane.svg" alt="Tamahagane Framework">
-</div>
 
 [![DotMH Future Gadget Lab](https://img.shields.io/badge/DotMH-.dev-red.svg?style=flat-square)](https://www.dotmh.io)
 [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg?style=flat-square)](https://lerna.js.org/)
 
-# Tamahagane Framework
+# Ghostline Framework
 
-Tamahagane is an opinionated framework for building static sites. It is built atop the [Metalsmith](https://metalsmith.io/) static site generator. The framework consists of some practical code i.e. plugins as well as process and methodology. 
+Ghostline is an opinionated framework for building static sites. It is built atop the [Metalsmith](https://metalsmith.io/) static site generator. The framework consists of some practical code i.e. plugins as well as process and methodology. 
 
 __NOTE__
-These plugins are only designed to work within the Tamahagane framework, though they may work fine outside
+These plugins are only designed to work within the Ghostline framework, though they may work fine outside
 with just standard Metalsmith they make some assumptions including that you are using [handlebars](https://handlebarsjs.com/) for templates.  
 
 # Plugins
 
-The Framework uses many plugins some developed especially for Tamahagane and some Third Party.
+The Framework uses many plugins some developed especially for Ghostline and some Third Party.
 
-## Tamahagane Plugins
+## Ghostline Plugins
 ### Base
 1. Handlebar Tools - Allows you to load Partials and Helpers so views have access
 2. Handlebar Content - Allows you to use partials in content pages
@@ -51,18 +48,18 @@ Installs all the plugins under the base heading above.
 Install with
 
 ```base
-npm i @dotmh/tamahagane-bundle-<BUNDLE>
+npm i @ghostline/bundle-<BUNDLE>
 ```
 
 i.e.
 
 ```bash
-npm i @dotmh/tamahagane-bundle-base 
+npm i @ghostline/bundle-base 
 ```
 
-You can then use them by including the individual plugins from the bundle, for example for `tamahagane-base`
+You can then use them by including the individual plugins from the bundle, for example for `Ghostline-base`
 
 ```javascript
-const {handlebars-content} = require('@dotmh/tamahagane-base');
+const {handlebarContents} = require('@ghostline/bundle-base');
 
 ```
