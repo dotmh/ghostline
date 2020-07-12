@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-handlebars-tools",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "Metalsmith plugin to allow loading of handlebars partials and helpers",
   "keywords": [
     "tamahagane",
@@ -21,9 +21,6 @@
   },
   "bugs": {
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
-  },
-  "dependencies": {
-    "handlebars": "^4.7.6"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"

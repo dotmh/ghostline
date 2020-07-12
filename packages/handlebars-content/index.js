@@ -1,10 +1,9 @@
 const minimatch = require('minimatch');
-const handlebars = require('handlebars');
 
 const extentions = ['html', 'htm', 'hbs'];
 const skip = ['contents', 'mode', 'stats'];
 
-module.exports = (_options = {}) => {
+module.exports = (handlebars, _options = {}) => {
 	const options = {..._options, ...{
 		extentions
 	}};

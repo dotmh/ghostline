@@ -1,11 +1,5 @@
-# `image-manager`
+# Metalsmith Plugin
 
-> TODO: description
+## Image Manager
 
-## Usage
-
-```
-const imageManager = require('image-manager');
-
-// TODO: DEMONSTRATE API
-```
+This plugin is designed to work with metalsmith. 

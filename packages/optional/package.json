@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-bundle-optional",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "A series of Plugins for the Tamahagane static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/optional#readme",
@@ -24,8 +24,8 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "@dotmh/tamahagane-countdown": "^0.2.0",
-    "@dotmh/tamahagane-image-colors": "^0.2.0",
-    "@dotmh/tamahagane-meta-debugger": "^0.2.0"
+    "@dotmh/tamahagane-countdown": "^0.5.0",
+    "@dotmh/tamahagane-image-colors": "^0.5.0",
+    "@dotmh/tamahagane-meta-debugger": "^0.5.0"
   }
 }

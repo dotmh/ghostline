@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-countdown",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "A counter plugin for metalsmith to allow adding metadata for counters",
   "keywords": [
     "Metalsmith",
@@ -24,7 +24,7 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "handlebars": "^4.7.6"
+    "@dotmh/ctf": "^0.1.0"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"

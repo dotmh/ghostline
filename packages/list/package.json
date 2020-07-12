@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-list",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "A Metalsmith plugin to create lists of pages",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/list#readme",

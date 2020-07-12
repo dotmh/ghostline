@@ -1,14 +1,12 @@
 const fs = require('fs');
 const path = require('path');
-const handlebars = require('handlebars');
-
 const JSEXT = '.js';
 const PARTIALS = Symbol('type.partials');
 const HELPERS = Symbol('type.helpers');
 
 const process = [PARTIALS, HELPERS];
 
-module.exports = (_options = {}) => {
+module.exports = (handlebars, _options = {}) => {
 	const options = {
 		..._options, ...{
 			partials: 'partials',
@@ -18,22 +16,26 @@ module.exports = (_options = {}) => {
 	};
 
 	const walk = (type, root, directory, top) => {
-		top = top || directory;
+		top = top || path.resolve(root, directory);
 
 		if (top.endsWith('/') === false) {
 			top = `${top}/`;
 		}
 
+		const base = path.resolve(root, directory);
+
 		const filePattern = type === PARTIALS ? options.pattern : JSEXT;
-		const files = fs.readdirSync(directory);
+		const files = fs.readdirSync(base);
 
 		files.forEach(file => {
-			const fullPath = path.join(directory, file);
+			const fullPath = path.join(base, file);
 			if (fs.statSync(fullPath).isDirectory()) {
-				walk(type, root, fullPath, directory);
+				walk(type, root, fullPath, base);
 			} else if (file.endsWith(filePattern)) {
+
 				const name = fullPath.replace(top, '').replace(filePattern, '');
-				const fsPath = path.join(root, fullPath);
+				const fsPath = fullPath;
+
 				switch (type) {
 					case PARTIALS:
 					{

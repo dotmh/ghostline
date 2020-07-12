@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-handlebars-content",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "Allows processing handlebars tags within the content files not just layouts",
   "keywords": [
     "Metalsmith",
@@ -24,7 +24,6 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "handlebars": "^4.7.6",
     "minimatch": "^3.0.4"
   },
   "peerDependencies": {

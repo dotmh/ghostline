@@ -1,7 +1,6 @@
-const handlebars = require('handlebars');
-const {parseDateTime, generateToday, count, zeroFill} = require('./time-functions');
+const {parseDateTime, generateToday, count, zeroFill} = require('@dotmh/ctf');
 
-module.exports = (_options = {}) => {
+module.exports = (handlebars, _options = {}) => {
 	const options = {
 		...{
 			countdowns: {

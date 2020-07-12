@@ -1,6 +1,6 @@
 {
   "name": "@dotmh/tamahagane-image-manager",
-  "version": "0.2.0",
+  "version": "0.5.0",
   "description": "Manage images in your site such as webp multisource",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/image-manager#readme",
@@ -22,9 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
-  },
-  "dependencies": {
-    "handlebars": "^4.7.6"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"
