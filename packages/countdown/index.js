@@ -1,4 +1,4 @@
-const {parseDateTime, generateToday, count, zeroFill} = require('./time-functions');
+const {parseDateTime, generateToday, count, zeroFill} = require('@dotmh/ctf');
 
 module.exports = (handlebars, _options = {}) => {
 	const options = {
@@ -30,5 +30,3 @@ module.exports = (handlebars, _options = {}) => {
 		done();
 	};
 };
-
-module.exports.timeFunctions = require('./time-functions');

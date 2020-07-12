@@ -24,7 +24,7 @@
     "url": "https://github.com/dotmh/tamahagane-plugins/issues"
   },
   "dependencies": {
-    "handlebars": "^4.7.6"
+    "@dotmh/ctf": "^0.1.0"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"
