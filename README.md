@@ -1,4 +1,4 @@
-![Ghostline Framework](logo.svg)
+![Ghostline Framework](Logo.svg)
 
 # Ghostline Framework
 [![DotMH Future Gadget Lab](https://img.shields.io/badge/DotMH-.dev-red.svg?style=flat-square)](https://www.dotmh.io)

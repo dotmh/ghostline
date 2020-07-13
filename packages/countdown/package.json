@@ -24,7 +24,7 @@
     "url": "https://github.com/dotmh/ghostline/issues"
   },
   "dependencies": {
-    "@ghostline/ctf": "^0.1.0"
+    "@dotmh/ctf": "^0.1.0"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"
