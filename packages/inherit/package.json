@@ -1,6 +1,6 @@
 {
   "name": "@ghostline/inherit",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "A Metelsmith plugin to inherit data from the master page for a section",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/inherit#readme",

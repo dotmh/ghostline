@@ -1,6 +1,6 @@
 {
   "name": "@ghostline/includes",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "Metalsmith plugin allowing to include one page's data in another",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/includes#readme",

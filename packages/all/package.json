@@ -1,6 +1,6 @@
 {
   "name": "@ghostline/bundle-all",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "A series of Plugins for the Ghostline static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/all#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/dotmh/ghostline/issues"
   },
   "dependencies": {
-    "@ghostline/bundle-base": "^0.5.0",
-    "@ghostline/bundle-optional": "^0.5.0"
+    "@ghostline/bundle-base": "^1.0.0",
+    "@ghostline/bundle-optional": "^1.0.0"
   }
 }

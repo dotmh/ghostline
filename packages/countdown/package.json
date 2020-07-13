@@ -1,6 +1,6 @@
 {
   "name": "@ghostline/countdown",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "A counter plugin for metalsmith to allow adding metadata for counters",
   "keywords": [
     "Metalsmith",

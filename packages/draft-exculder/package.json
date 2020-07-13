@@ -1,6 +1,6 @@
 {
   "name": "@ghostline/draft-exculder",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "Excludes drafts from been published",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/draft-exculder#readme",

@@ -1,6 +1,6 @@
 {
   "name": "@ghostline/bundle-base",
-  "version": "0.5.0",
+  "version": "1.0.0",
   "description": "A series of Plugins for the Ghostline static site framework",
   "author": "Martin Haynes <martin@dotmh.io>",
   "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/base#readme",
@@ -24,15 +24,15 @@
     "url": "https://github.com/dotmh/ghostline/issues"
   },
   "dependencies": {
-    "@ghostline/draft-exculder": "^0.5.0",
-    "@ghostline/galleries": "^0.5.0",
-    "@ghostline/handlebars-content": "^0.5.0",
-    "@ghostline/handlebars-tools": "^0.5.0",
-    "@ghostline/image-manager": "^0.5.0",
-    "@ghostline/includes": "^0.5.0",
-    "@ghostline/inherit": "^0.5.0",
-    "@ghostline/is-current": "^0.5.0",
-    "@ghostline/list": "^0.5.0",
-    "@ghostline/meta-loader": "^0.5.0"
+    "@ghostline/draft-exculder": "^1.0.0",
+    "@ghostline/galleries": "^1.0.0",
+    "@ghostline/handlebars-content": "^1.0.0",
+    "@ghostline/handlebars-tools": "^1.0.0",
+    "@ghostline/image-manager": "^1.0.0",
+    "@ghostline/includes": "^1.0.0",
+    "@ghostline/inherit": "^1.0.0",
+    "@ghostline/is-current": "^1.0.0",
+    "@ghostline/list": "^1.0.0",
+    "@ghostline/meta-loader": "^1.0.0"
   }
 }
