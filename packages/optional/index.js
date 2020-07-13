@@ -1,5 +1,5 @@
 module.exports = {
-    imageColors: require('@dotmh/tamahagane-image-colors'),
-    metadataDebugger: require('@dotmh/tamahagane-meta-debugger'),
-    countdown: require('@dotmh/tamahagane-countdown')
+    imageColors: require('@ghostline/image-colors'),
+    metadataDebugger: require('@ghostline/meta-debugger'),
+    countdown: require('@ghostline/countdown')
 }

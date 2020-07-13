@@ -1,16 +1,16 @@
 {
-  "name": "@dotmh/tamahagane-galleries",
+  "name": "@ghostline/galleries",
   "version": "0.5.0",
   "description": "Auto generate gallery metadata to add to pages",
   "keywords": [
     "Metalsmith",
-    "tamahagane",
-    "tamahagane-plugin",
+    "Ghostline",
+    "plugin",
     "static",
     "static-site"
   ],
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/galleries#readme",
+  "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/galleries#readme",
   "license": "Apache-2.0",
   "main": "index.js",
   "directories": {
@@ -22,13 +22,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+    "url": "git+https://github.com/dotmh/ghostline.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+    "url": "https://github.com/dotmh/ghostline/issues"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"

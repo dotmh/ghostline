@@ -1,27 +1,27 @@
 {
-  "name": "@dotmh/tamahagane-image-colors",
+  "name": "@ghostline/image-colors",
   "version": "0.5.0",
   "description": "Get the dominant colors from all the images in your site\"",
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/image-colors#readme",
+  "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/image-colors#readme",
   "license": "Apache-2.0",
   "main": "index.js",
   "keywords": [
     "Metalsmith",
-    "tamahagane",
-    "tamahagane-plugin",
+    "Ghostline",
+    "plugin",
     "static",
     "static-site"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+    "url": "git+https://github.com/dotmh/ghostline.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+    "url": "https://github.com/dotmh/ghostline/issues"
   },
   "dependencies": {
     "minimatch": "^3.0.4",

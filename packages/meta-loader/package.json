@@ -1,27 +1,27 @@
 {
-  "name": "@dotmh/tamahagane-meta-loader",
+  "name": "@ghostline/meta-loader",
   "version": "0.5.0",
   "description": "A Metalsmith plugin for loading meta data from serialized files",
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/meta-loader#readme",
+  "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/meta-loader#readme",
   "license": "Apache-2.0",
   "main": "index.js",
   "keywords": [
     "Metalsmith",
-    "tamahagane",
-    "tamahagane-plugin",
+    "Ghostline",
+    "plugin",
     "static",
     "static-site"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+    "url": "git+https://github.com/dotmh/ghostline.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+    "url": "https://github.com/dotmh/ghostline/issues"
   },
   "dependencies": {
     "js-yaml": "^3.13.1"

@@ -1,26 +1,26 @@
 {
-  "name": "@dotmh/tamahagane-handlebars-tools",
+  "name": "@ghostline/handlebars-tools",
   "version": "0.5.0",
   "description": "Metalsmith plugin to allow loading of handlebars partials and helpers",
   "keywords": [
-    "tamahagane",
-    "tamahagane-plugin",
+    "Ghostline",
+    "plugin",
     "handlebars",
     "metalsmith"
   ],
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/handlebar-tools#readme",
+  "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/handlebar-tools#readme",
   "license": "Apache-2.0",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+    "url": "git+https://github.com/dotmh/ghostline.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+    "url": "https://github.com/dotmh/ghostline/issues"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"

@@ -1,27 +1,27 @@
 {
-  "name": "@dotmh/tamahagane-is-current",
+  "name": "@ghostline/is-current",
   "version": "0.5.0",
   "description": "A Metelsmith plugin to highlight the current page section in the menu",
   "author": "Martin Haynes <martin@dotmh.io>",
-  "homepage": "https://github.com/dotmh/tamahagane-plugins/tree/master/packages/is-current#readme",
+  "homepage": "https://github.com/dotmh/ghostline/tree/master/packages/is-current#readme",
   "license": "Apache-2.0",
   "main": "index.js",
   "keywords": [
     "Metalsmith",
-    "tamahagane",
-    "tamahagane-plugin",
+    "Ghostline",
+    "plugin",
     "static",
     "static-site"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dotmh/tamahagane-plugins.git"
+    "url": "git+https://github.com/dotmh/ghostline.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/dotmh/tamahagane-plugins/issues"
+    "url": "https://github.com/dotmh/ghostline/issues"
   },
   "peerDependencies": {
     "metalsmith": "^2.3.0"
